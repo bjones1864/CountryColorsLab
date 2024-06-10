@@ -8,6 +8,10 @@
     float: left;
 }
 
+.rightFloat{
+    float: right;
+}
+
 .halfWidth{
      width: 50%;
 }
@@ -29,4 +33,9 @@ div{
 
 #Color3{
     background-color:blue;
+}
+
+img {
+    border: 1px solid black;
+    margin: 8px;;
 }
